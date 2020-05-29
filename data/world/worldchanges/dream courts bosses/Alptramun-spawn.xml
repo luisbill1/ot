@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="32207" centery="32041" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32223" centery="32043" centerz="14" radius="1">
+		<npc name="Arenawarmaster" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32203" centery="32044" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32207" centery="32044" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32211" centery="32044" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32214" centery="32046" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32203" centery="32048" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32207" centery="32048" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32211" centery="32048" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32205" centery="32052" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="32209" centery="32052" centerz="14" radius="1">
+		<monster name="Deathslicer" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+</spawns>
